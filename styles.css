@@ -1,0 +1,160 @@
+* {
+  list-style: none;
+  font-family: "Montserrat", sans-serif;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background: #ebecf1;
+  color: #b3b9b9;
+}
+
+.view_item img {
+  width: 200px;
+}
+
+.links {
+  margin-bottom: 25px;
+
+  border-radius: 3px;
+}
+
+.links ul {
+  display: flex;
+  justify-content: center;
+}
+
+.links ul li {
+  margin: 0 15px;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 3px;
+  font-size: 52px;
+  cursor: pointer;
+  color: white;
+}
+
+.view_main {
+  background: #fff;
+  border-radius: 3px;
+  padding: 15px;
+  background-color: darkblue;
+}
+
+.list-view .view_item {
+  background: #fff;
+  border: 1px solid #e2efe1;
+  margin: 10px;
+  padding: 10px 20px;
+  display: flex;
+  align-items: center;
+}
+
+.list-view .view_item:last-child {
+  margin-bottom: 0;
+}
+
+.list-view .view_item .vi_left {
+  margin-right: 25px;
+}
+
+.view_item .title {
+  font-weight: 600;
+}
+
+.view_item .content {
+  margin: 5px 0;
+  font-size: 16px;
+  line-height: 22px;
+
+  text-align: left;
+  color: black;
+  margin-left: 20px;
+}
+
+.view_item .btn {
+  width: 125px;
+
+  padding: 10px 5px;
+  border-radius: 3px;
+  color: blue;
+  text-align: center;
+
+  cursor: pointer;
+}
+
+.view_item .btn:hover {
+  background: whitesmoke;
+}
+
+.grid-view {
+  width: 100%;
+}
+
+.grid-view .view_item {
+  display: inline-block;
+  border: 1px solid #e2efe1;
+  width: 253px;
+  /* padding: 25px; */
+  text-align: center;
+  margin: 10px;
+  background-color: white;
+  margin-left: 55px;
+}
+
+.grid-view .view_item .vi_left {
+  margin-bottom: 10px;
+}
+
+.grid-view .view_item .btn {
+  margin: 0 auto;
+}
+
+button {
+  cursor: pointer;
+}
+
+table,
+th,
+td {
+  color: black;
+}
+table {
+  border-spacing: 3px;
+}
+th,
+td {
+  background-color: white;
+  padding: 8px;
+  text-align: center;
+}
+.editButton {
+  border: none;
+  font-size: 20px;
+  color: blue;
+  background-color: white;
+  margin-right: 23px;
+}
+.save {
+  cursor: pointer;
+  border: none;
+  color: blue;
+  font-size: 20px;
+  background-color: white;
+}
+.close-button1 {
+  color: white;
+  width: 10px;
+  margin-left: 10px;
+  border: none;
+}
+.close-image {
+  width: 10px;
+}
+.close-button {
+  border: none;
+  background-color: white;
+  margin: 10px 210px;
+}

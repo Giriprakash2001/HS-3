@@ -1,0 +1,84 @@
+[
+  {
+    "name": "Girprakash",
+    "id": 125896,
+    "Gender": "Male",
+    "skills": ["Reactjs", "Angular", "Js"],
+    "project": "cognizant interval",
+    "hcm": "Alex"
+  },
+
+  {
+    "name": "Indhumathi",
+    "id": 989568,
+    "Gender": "Female",
+    "skills": ["Html", "Bootstrap"],
+    "project": "cognizant interval",
+    "hcm": "Alex"
+  },
+
+  {
+    "name": "Vinothkumar",
+    "id": 123456,
+    "Gender": "Male",
+    "skills": ["JAVA", ".NET"],
+    "project": "cognizant interval",
+    "hcm": "Alex"
+  },
+  {
+    "name": "Parthiban",
+    "id": 895687,
+    "Gender": "Male",
+    "skills": ["React", "SASS"],
+    "project": "cognizant interval",
+    "hcm": "Alex"
+  },
+  {
+    "name": "Balaji",
+    "id": 125896,
+    "Gender": "Male",
+    "skills": ["JAVA", "JQUERY"],
+    "project": "cognizant interval",
+    "hcm": "Alex"
+  },
+  {
+    "name": "Abishek",
+    "id": 256987,
+    "Gender": "Male",
+    "skills": ["Sql", "C-sharp"],
+    "project": "cognizant interval",
+    "hcm": "Alex"
+  },
+  {
+    "name": "Shalani",
+    "id": 658742,
+    "Gender": "Female",
+    "skills": ["c", "c++", "java"],
+    "project": "cognizant interval",
+    "hcm": "Alex"
+  },
+  {
+    "name": "Anitha",
+    "id": 456985,
+    "Gender": "Female",
+    "skills": [".net", "jquery"],
+    "project": "cognizant interval",
+    "hcm": "Alex"
+  },
+  {
+    "name": "Raji",
+    "id": 654123,
+    "Gender": "Female",
+    "skills": ["OOPS", "C", "C++"],
+    "project": "cognizant interval",
+    "hcm": "Alex"
+  },
+  {
+    "name": "Pavithra",
+    "id": 123456,
+    "Gender": "Female",
+    "skills": ["Bootstrap", ".net"],
+    "project": "cognizant interval",
+    "hcm": "Alex"
+  }
+]
